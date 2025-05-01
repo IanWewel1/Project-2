@@ -1,0 +1,13 @@
+[
+    "respect", "dismiss", "welcome", "upgrade", "kingdom", "gallery", "capture", "evening", "impress", "village",
+    "freedom", "blanket", "journey", "zealous", "opinion", "picture", "balloon", "station", "example", "library",
+    "balance", "natural", "discuss", "trouble", "harvest", "fortune", "charmer", "glacier", "quality", "monitor",
+    "landscape", "kaleidoscope", "grapevine", "situation", "absolutely", "generation", "knowledge", "conductor",
+    "nighttime", "volunteer", "discovery", "foundation", "important", "justified", "blueprints", "education",
+    "photograph", "technology", "reception", "meaningful", "wonderful", "adventure", "direction", "objective",
+    "background", "newspaper", "lighthouse", "rehearsals", "opposition", "highlight", "chocolate", "fascinate",
+    "helicopter", "journalist", "understand", "population", "thankfully", "instrument", "experience", "management",
+    "determining", "unbelievable", "marketplaces", "lightningrod", "transporting", "electricity", "questionable",
+    "brainstormed", "scholarships", "involvement", "partnerships", "handwriting", "justifiable", "opportunities",
+    "neighborhood", "achievement", "friendliness", "consequence", "grandparents", "relationships"
+]
