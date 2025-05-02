@@ -44,7 +44,7 @@ class Logic(QMainWindow, Ui_Hangman):
         if len(letter) < 1:
             self.error.setText('Enter a character')
         elif len(letter) > 1:
-            self.error.setText('Only enter one letter')
+            self.error.setText('Only enter one character')
         elif not letter.isalpha():
             self.error.setText('Enter an alphabetic character')
         elif letter in self.guessed_letters:
@@ -83,7 +83,7 @@ class Logic(QMainWindow, Ui_Hangman):
 
             self.win()
 
-        self.guessed_letters.append(letter)
+            self.guessed_letters.append(letter)
 
     def win(self) -> None:
         """
